@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I'm Koh Kawamoto
 
+広島大学の電気情報系を専攻している学部3年生です。
+現在は、
 <!--
 **kk1124sbsb-tech/kk1124sbsb-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

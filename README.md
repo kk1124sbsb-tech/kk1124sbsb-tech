@@ -8,7 +8,8 @@
 ### 🛠 技術スタック
 - **Backend:** Go, PHP
 - **Infrastructure & DB:** MySQL, Linux (Ubuntu), Nginx, Ansible, Docker
-- **Academic Core (C / Python):** - C言語を用いたメモリ管理（ポインタ）、データ構造、アルゴリズム設計
+- **Academic Core (C / Python):**
+  - C言語を用いたメモリ管理（ポインタ）、データ構造、アルゴリズム設計
   - Pythonを用いた機械学習、遺伝的アルゴリズム（GA）、数理最適化
 - **Tools:** Git/GitHub, WSL2
 
